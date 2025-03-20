@@ -22,4 +22,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dt256&show_icons=true&locale=en" alt="dt256" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dt256&" alt="dt256" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dt256&show_icons=true&locale=en&layout=compact" alt="dt256" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dt256" alt="dt256" /></a></p>
